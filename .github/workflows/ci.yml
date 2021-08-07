@@ -51,3 +51,4 @@ jobs:
         uses: santiac89/gas-report-action@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          contracts: Jelly
